@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+google-service-account.json
+server/data/community.json
+server/data/community.json.tmp
+.gstack/
